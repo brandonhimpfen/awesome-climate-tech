@@ -88,6 +88,8 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [OpenGHG](https://openghg.org/) – Collaborative platform for greenhouse gas data science.
 - [Berkeley Earth](https://berkeleyearth.org/) – Open-source global climate data sets.
 - [Climate TRACE](https://climatetrace.org/) – Emissions data by sector and geography using satellites and AI.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz/) – Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 - [Global Carbon Atlas](http://www.globalcarbonatlas.org/) – Interactive emissions data and carbon budgets.
 
 ## Communities & Ecosystems
