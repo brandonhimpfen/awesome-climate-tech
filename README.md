@@ -89,6 +89,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Berkeley Earth](https://berkeleyearth.org/) – Open-source global climate data sets.
 - [Climate TRACE](https://climatetrace.org/) – Emissions data by sector and geography using satellites and AI.
 - [Global Carbon Atlas](http://www.globalcarbonatlas.org/) – Interactive emissions data and carbon budgets.
+- [Superhighway Energy Research Agent](https://superhighway.walls.sh/guides/energy-research-agent) – Python agent that researches electricity markets, renewable energy capacity, commodity prices, and energy policy using live web search; generates structured energy market briefs. Pay-per-call, no signup.
 
 ## Communities & Ecosystems
 
