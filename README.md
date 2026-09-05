@@ -1,4 +1,4 @@
-# Awesome Climate Tech [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Climate Tech [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1010864835.svg)](https://doi.org/10.5281/zenodo.19673090)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -99,11 +99,11 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- **[Awesome Sustainability](https://github.com/awesomelistsio/awesome-sustainability)** – Tools and resources for environmental sustainability.
-- **[Awesome Carbon Accounting & Offsets](https://github.com/awesomelistsio/awesome-carbon-accounting-and-offsets)** – Carbon tracking, marketplaces, and offset tools.
-- **[Awesome Open Data](https://github.com/awesomelistsio/awesome-open-data)** – Curated list of high-quality open data resources.
-- **[Awesome Green Cloud Computing](https://github.com/awesomelistsio/awesome-green-cloud-computing)** – Sustainable computing tools and platforms.
-- **[Awesome Open Science](https://github.com/awesomelistsio/awesome-open-science)** – Collaborative and open-access scientific research.
+- **[Awesome Sustainability](https://github.com/brandonhimpfen/awesome-sustainability)** – Tools and resources for environmental sustainability.
+- **[Awesome Carbon Accounting & Offsets](https://github.com/brandonhimpfen/awesome-carbon-accounting-and-offsets)** – Carbon tracking, marketplaces, and offset tools.
+- **[Awesome Open Data](https://github.com/brandonhimpfen/awesome-open-data)** – Curated list of high-quality open data resources.
+- **[Awesome Green Cloud Computing](https://github.com/brandonhimpfen/awesome-green-cloud-computing)** – Sustainable computing tools and platforms.
+- **[Awesome Open Science](https://github.com/brandonhimpfen/awesome-open-science)** – Collaborative and open-access scientific research.
   
 ## Contribute
 
