@@ -33,7 +33,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 - [Project Drawdown](https://drawdown.org/) – Solutions-based resource ranking the most impactful climate interventions.
 - [Climate Tech VC](https://climatetechvc.org/) – Newsletter and database covering startups and trends in climate tech.
-- [IEA – Energy Technology Perspectives](https://www.iea.org/topics/energy-technology-perspectives) – International reports on energy and tech for decarbonization.
+- [IEA – Energy Technology Perspectives](https://www.iea.org/reports/energy-technology-perspectives-2026) – International reports on energy and tech for decarbonization.
 - [PwC State of Climate Tech](https://www.pwc.com/gx/en/services/sustainability/publications/state-of-climate-tech.html) – In-depth VC funding and innovation trends.
 
 ## Startups & Companies
