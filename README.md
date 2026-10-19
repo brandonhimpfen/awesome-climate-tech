@@ -99,6 +99,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Work on Climate](https://www.workonclimate.org/) – Professional community for climate-focused careers.
 - [AirMiners](https://www.airminers.org/) – Community for carbon removal entrepreneurs and engineers.
 - [Terra.do](https://www.terra.do/) – Climate-focused learning and job placement platform.
+- [SolarXlist](https://solarxlist.org/) – Global directory of solar, PV, and energy-storage companies (manufacturers, installers, EPCs, suppliers, distributors), searchable by country, city, and business role.
 
 ## Related Awesome Lists
 
