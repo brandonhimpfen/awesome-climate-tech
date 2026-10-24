@@ -57,6 +57,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Solar Protocol](https://solarprotocol.net/) – Solar-powered, distributed web infrastructure.
 - [WattTime](https://www.watttime.org/) – Automated emissions reduction APIs for electricity usage.
 - [Clean Energy Buyers Alliance](https://cebuyers.org/) – Tools for companies to procure clean power.
+- [The PV Index](https://thepvindex.com/) – Free, independent directory of the global solar PV industry (manufacturers, equipment, storage, developers, software, events).
 
 ## Sustainable Agriculture & Food
 
