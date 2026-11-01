@@ -53,10 +53,12 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Renewable Energy
 
+- [Clean Energy Buyers Alliance](https://cebuyers.org/) – Tools for companies to procure clean power.
 - [Rewiring America](https://www.rewiringamerica.org/) – Nonprofit focused on electrification of everything.
 - [Solar Protocol](https://solarprotocol.net/) – Solar-powered, distributed web infrastructure.
+- [Solars](https://solars.com.ua/) – Commercial rooftop solar modeling and Net Billing self-consumption calculator.
+- [SunEco](https://suneco.com.ua/) – Industrial LiFePO4 battery energy storage system (BESS) sizing and microgrid integration.
 - [WattTime](https://www.watttime.org/) – Automated emissions reduction APIs for electricity usage.
-- [Clean Energy Buyers Alliance](https://cebuyers.org/) – Tools for companies to procure clean power.
 
 ## Sustainable Agriculture & Food
 
